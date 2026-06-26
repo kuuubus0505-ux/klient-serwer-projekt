@@ -9,10 +9,8 @@ odebrane dane strumieniowo (Stream API) oraz obsluguje celowy blad rzutowania.
 
 > UZUPELNIJ ponizsze dane przed oddaniem projektu.
 
-- Imie Nazwisko - modele danych, serwer
-- Imie Nazwisko - klient, protokol komunikacji
-- Imie Nazwisko - testy jednostkowe i integracyjne
-- Imie Nazwisko - testy E2E, dokumentacja
+- Jakub Garbacz 176610
+  
 
 ## Wymagania
 
