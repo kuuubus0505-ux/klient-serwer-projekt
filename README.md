@@ -7,8 +7,6 @@ odebrane dane strumieniowo (Stream API) oraz obsluguje celowy blad rzutowania.
 
 ## Sklad zespolu i odpowiedzialnosci
 
-> UZUPELNIJ ponizsze dane przed oddaniem projektu.
-
 - Jakub Garbacz 176610
   
 
